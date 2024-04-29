@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>registration page</title>
+</head>
+<body>
+<h1>sowmya:</h1>
+<p1>collage fee in terms
+per term 20000</p1>
+</body>
+</html>
